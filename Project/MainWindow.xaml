@@ -162,6 +162,7 @@
         <CheckBox/>
         <CheckBox/>
         <CheckBox/>
+        <CheckBox/>
       </StackPanel>
     </StackPanel>
   </md:DialogHost>
