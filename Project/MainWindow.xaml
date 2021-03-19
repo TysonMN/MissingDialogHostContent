@@ -13,7 +13,9 @@
 
   <md:DialogHost IsOpen="{Binding IsDialogOpen}" CloseOnClickAway="True">
     <md:DialogHost.DialogContent>
-      <TextBlock Text="Hello World" Visibility="{Binding DialogHostContextTextVisibility}"/>
+      <Grid Height="100" Width="100">
+        <TextBlock Text="Hello World" Visibility="{Binding DialogHostContextTextVisibility}"/>
+      </Grid>
     </md:DialogHost.DialogContent>
     <StackPanel Orientation="Horizontal">
       <Button Click="OpenDialog" Content="Open Dialog"/>
