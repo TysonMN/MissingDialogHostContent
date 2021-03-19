@@ -90,6 +90,7 @@
         <TextBox/>
         <TextBox/>
         <TextBox/>
+        <TextBox/>
       </StackPanel>
     </StackPanel>
   </md:DialogHost>
