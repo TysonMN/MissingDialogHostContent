@@ -162,6 +162,7 @@
         <RadioButton/>
         <RadioButton/>
         <RadioButton/>
+        <RadioButton/>
       </StackPanel>
     </StackPanel>
   </md:DialogHost>
