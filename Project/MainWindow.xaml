@@ -66,6 +66,7 @@
         <ComboBox/>
         <ComboBox/>
         <ComboBox/>
+        <ComboBox/>
       </StackPanel>
     </StackPanel>
   </md:DialogHost>
