@@ -17,6 +17,56 @@
     </md:DialogHost.DialogContent>
     <StackPanel Orientation="Horizontal">
       <Button Click="OpenDialog" Content="Open Dialog"/>
+      <StackPanel>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+        <ComboBox/>
+      </StackPanel>
     </StackPanel>
   </md:DialogHost>
 </Window>
